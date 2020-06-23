@@ -1,15 +1,13 @@
-# CSS-JS
+# CSS & Vanila JS
 
 Some Projects On Vanila.JS and CSS based
 
-### Link of the Project [Menu](https://mridul2820.github.io/css-js/)
+### Link of the Project [Menu](https://mridul2820.github.io/CSS-Vanila-JS-Projects/)
 
 ### Section
 
 ```markdown
 
-- CSS & JS
-- Swiper.js
 - Vanila JS
 
 ```
