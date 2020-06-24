@@ -50,10 +50,24 @@ body * {
   z-index: -1;
   opacity: .3;
   position: absolute;
-  bottom: 60px;
+  bottom: 5%;
   left: 50%;
   -webkit-transform: translateX(-50%);
           transform: translateX(-50%);
+}
+
+@media only screen and (max-width: 35em) {
+  .year {
+    bottom: 12%;
+    font-size: 180px;
+  }
+}
+
+@media only screen and (max-width: 28em) {
+  .year {
+    bottom: 22%;
+    font-size: 140px;
+  }
 }
 
 h1 {
