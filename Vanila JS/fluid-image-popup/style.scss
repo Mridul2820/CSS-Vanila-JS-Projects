@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css2?family=MuseoModerno:wght@300;400;500;600;700;800&display=swap');
+
+// Responsive Breakpoint
+$bp-large: 62em;        //992px
+$bp-medium: 45em;       //720px
+$bp-small: 32em;        //512x
+$bp-smallest: 28em;     //448px
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'MuseoModerno', cursive;
+}
+
+.gallery {
+    padding: 1.5rem 1.2rem;
+    min-height: 100vh;
+
+    display: grid;
+    grid-gap: 1.5rem;
+    grid-template-columns: repeat(4, minmax(200px, 1fr));
+    // grid-template-columns: repeat(4,  1fr);
+
+    @media only screen and (max-width: $bp-large){
+        grid-template-columns: repeat(3, minmax(200px, 1fr));
+    }
+
+    @media only screen and (max-width: $bp-medium){
+        grid-template-columns: repeat(2, minmax(200px, 1fr));
+    }
+
+    @media only screen and (max-width: $bp-small){
+        grid-template-columns: repeat(1, minmax(200px, 1fr));
+    }
+
+    @media only screen and (max-width: $bp-smallest){
+        padding: 1rem .7rem;
+
+        grid-gap: 1rem;
+    }
+}
+
+.img-container {
+    overflow: hidden;
+    img {
+        display: block;
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        transition: all .3s ease-out;
+        cursor: pointer;
+
+        &:hover {
+            transform: scale(1.2);
+        }
+    }
+}
+
+.modal {
+    background: rgba(0, 0, 0, .6);
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+    pointer-events: none;
+    transition: all .25s ease-out;
+
+    &.open {
+        opacity: 1;
+        pointer-events: all;
+    }
+
+    .full-img {
+        position: absolute;
+        height: 70%;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%) scale(.5);
+        transition: all .25s ease-out;
+
+        &.open {
+            transform: translate(-50%, -50%) scale(1);
+        }
+    }
+
+    .caption {
+        color: white;
+        font-size: 2rem;
+        text-align: center;
+        width: 100%;
+        position: absolute;
+        bottom: 5%;
+        left: 50%;
+        transform: translate(-50%, -5%);
+        z-index: 1;
+
+        @media only screen and (max-width: $bp-large){
+            font-size: 1.8rem;
+        }
+    
+        @media only screen and (max-width: $bp-medium){
+            font-size: 1.6rem;
+        }
+    
+        @media only screen and (max-width: $bp-smallest){
+            font-size: 1.4rem;
+        }
+    }
+}
