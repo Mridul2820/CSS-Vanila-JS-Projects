@@ -114,10 +114,6 @@ function addMealToDOM(meal){
 `                    <iframe 
                         src="https://www.youtube.com/embed/${getLink[1]}" 
                         frameborder="0" 
-                        allow="accelerometer; 
-                        autoplay; 
-                        encrypted-media; 
-                        gyroscope; 
                         picture-in-picture" 
                         allowfullscreen>
                     </iframe> `
