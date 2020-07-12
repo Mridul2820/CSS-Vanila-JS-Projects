@@ -11,6 +11,12 @@ const prevButton = document.getElementById('prev');
 const playButton = document.getElementById('play');
 const nextButton = document.getElementById('next');
 
+const mute = document.getElementById('mute');
+const full = document.getElementById('full');
+const volumeBar = document.getElementById('volume-bar');
+const volume = document.getElementById('volume');
+
+
 // song titles 
 const songs = [
     '3LAU feat. Carly Paige - Touch',
@@ -100,6 +106,31 @@ function updateProgress(e) {
     progress.style.width = `${progessPercent}%`;
 }
 
+// Mute volume
+function muteVolume() {
+    audio.volume = 0;
+
+    volume.style.width = `0%`;
+}
+
+// Full volume
+function fullVolume() {
+    audio.volume = 1.0;
+
+    volume.style.width = `100%`;
+}
+
+// Volumn bar
+function setVolume(e) {
+    const width = this.clientWidth;
+    const clickX = e.offsetX;
+
+    audio.volume = clickX / 100;
+
+    volume.style.width = `${clickX}%`;
+}
+
+
 // event listeners
 playButton.addEventListener('click', () => {
     const isPlaying = musicContainer.classList.contains('play');
@@ -124,3 +155,10 @@ progressContainer.addEventListener('click', setProgress);
 
 // Song ends
 audio.addEventListener('ended', nextSong);
+
+// volume icons click
+mute.addEventListener('click', muteVolume);
+full.addEventListener('click', fullVolume);
+
+volumeBar.addEventListener('click', setVolume);
+
