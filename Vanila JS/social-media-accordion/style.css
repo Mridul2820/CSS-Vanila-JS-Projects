@@ -6,7 +6,8 @@
 * {
   margin: 0;
   padding: 0;
-  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
 }
 
 body {
@@ -71,6 +72,7 @@ header h1 {
   width: 80px;
   height: 200px;
   overflow: hidden;
+  -webkit-transition: all .5s ease-in-out .1s;
   transition: all .5s ease-in-out .1s;
 }
 
@@ -134,9 +136,12 @@ header h1 {
   text-indent: 0;
   padding-top: 90px;
   padding-left: 25px;
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
   font: normal 30px Genericons;
   color: #fff;
+  -webkit-transition: all .4s ease-in-out .1s;
   transition: all .4s ease-in-out .1s;
 }
 
