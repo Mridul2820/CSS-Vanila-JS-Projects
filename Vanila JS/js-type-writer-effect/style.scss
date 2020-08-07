@@ -1,0 +1,75 @@
+// Responsive Breakpoint 
+$bp-largest: 75em;      //1200px
+$bp-large: 45em;       //720px
+$bp-medium: 36em;      //576x
+$bp-small: 26em;       //416px
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+
+    height: 100vh;
+    background: #333 url('assets/road-landscape-nature-full.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #fff;
+    overflow: hidden;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100%;
+    padding: 0 3rem;
+
+    @media only screen and (max-width: $bp-medium){
+        padding: 0 1rem;
+    }
+}
+
+h1,h2 {
+    font-weight: 300;
+    margin: .4rem;
+}
+
+h1 {
+    font-size: 3.5rem;
+
+    @media only screen and (min-width: $bp-largest){
+        font-size: 5rem;
+    }
+
+    @media only screen and (max-width: $bp-large){
+        font-size: 3rem;
+    }
+
+    @media only screen and (max-width: $bp-medium){
+        font-size: 2.5rem;
+    }
+}
+
+h2 {
+    font-size: 2rem;
+    color: #eee;
+
+    @media only screen and (max-width: $bp-large){
+        font-size: 1.7rem;
+    }
+
+    @media only screen and (max-width: $bp-medium){
+        font-size: 1.5rem;
+    }
+}
+
+// cursor 
+.text-type .text {
+    padding-right: 3px;
+    border-right: .2rem solid #999;
+}
