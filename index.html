@@ -21,7 +21,7 @@
             padding: 0;
             box-sizing: border-box;
             font-family: 'Open Sans Condensed', sans-serif;
-            background: #fffde7;
+            /* background: #fffde7; */
         }
 
         body {
@@ -29,6 +29,13 @@
             align-items: center;
             justify-content: center;
             flex-direction: column;
+            background-image: linear-gradient(
+                rgba(0, 0, 0, 0.4), 
+                rgba(0, 0, 0, 0.4)
+                ), url(assets/bg-main.jpg);
+            background-position: left;
+            background-size: cover;
+            background-attachment: fixed;
         }
 
         .searchBox {
@@ -37,10 +44,14 @@
             left: 0;
             height: 10em;
             width: 100%;
-            background: url(assets/bg.png);
+            background-image: linear-gradient(
+                rgba(47, 127, 51, 0.5), 
+                rgba(47, 127, 51, 0.3)
+                ), url(assets/bg.png);
             background-position: bottom;
             background-size: cover;
             z-index: 1000;
+            /* color: rgb(47, 127, 51); */
         }
         
         .search {
@@ -126,6 +137,7 @@
             align-items: center;
             border: 3px solid #1b5e20;
             transition: all .2s;
+            background: rgba(255, 253, 231, .9);
         }
 
         .container .project:hover{
