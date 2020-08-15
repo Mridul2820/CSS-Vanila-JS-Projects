@@ -73,9 +73,7 @@ header .toggle {
   width: 100%;
   min-height: 100vh;
   padding: 0 100px;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
+  display: none;
   -webkit-box-pack: start;
       -ms-flex-pack: start;
           justify-content: flex-start;
@@ -352,4 +350,17 @@ header .toggle {
 
 .banner .social li a:hover .fa-twitter-square {
   color: #55acee;
+}
+
+.loading-image {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  min-height: 100vh;
 }
