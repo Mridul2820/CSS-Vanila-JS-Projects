@@ -8,6 +8,6 @@ Some Projects On Vanila.JS and CSS based
 
 ```markdown
 
-◾ [CSS Theme Switcher]
+◾ [CSS Theme Switcher] (https://mridul2820.github.io/CSS-Vanila-JS-Projects/Vanila-JS/css-theme-switcher/index.html)
 
 ```
