@@ -1,14 +1,22 @@
 "use strict";
 
-let canvas, width, height, ctx;
+let width, height;
+// let canvas, width, height, ctx;
 let fireworks = [];
 let particles = [];
+
+var canvas = document.getElementById('canvas');
+var ctx = canvas.getContext('2d');
+var img = new Image();
+img.src = 'https://images.unsplash.com/photo-1534796636912-3b95b3ab5986?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80';
 
 function setup() {
 	canvas = document.getElementById("canvas");
 	setSize(canvas);
 	ctx = canvas.getContext("2d");
-	ctx.fillStyle = "#000000";
+	// ctx.fillStyle = "#000000";
+	var pattern = ctx.createPattern(img, 'repeat');
+	ctx.fillStyle = pattern;
 	ctx.fillRect(0, 0, width, height);
 	fireworks.push(new Firework(Math.random()*(width-200)+100));
 	window.addEventListener("resize",windowResized);
@@ -19,7 +27,9 @@ setTimeout(setup,1);
 
 function loop(){
 	ctx.globalAlpha = 0.1;
-	ctx.fillStyle = "#000000";
+	// ctx.fillStyle = "#000000";
+	var pattern = ctx.createPattern(img, 'repeat');
+	ctx.fillStyle = pattern;
 	ctx.fillRect(0, 0, width, height);
 	ctx.globalAlpha = 1;
 
@@ -139,6 +149,8 @@ function onClick(e){
 
 function windowResized(){
 	setSize(canvas);
-	ctx.fillStyle = "#000000";
+	// ctx.fillStyle = "#000000";
+	var pattern = ctx.createPattern(img, 'repeat');
+	ctx.fillStyle = pattern;
 	ctx.fillRect(0, 0, width, height);
 }
