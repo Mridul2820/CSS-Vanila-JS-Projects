@@ -4,10 +4,10 @@ Some Projects On Vanila.JS and CSS based
 
 ### Link of the Project [Menu](https://mridul2820.github.io/CSS-Vanila-JS-Projects/)
 
-### Section
+### Individual
 
 ```markdown
 
-- Vanila JS
+◾ [CSS Theme Switcher]
 
 ```
