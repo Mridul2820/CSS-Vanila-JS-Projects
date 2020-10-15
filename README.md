@@ -18,7 +18,7 @@ Some Projects On Vanila.JS and CSS based
 <br/>
 ◾ [Fireworks](https://mridul2820.github.io/CSS-Vanila-JS-Projects/Vanila-JS/fireworks/fire.html)
 <br/>
-◾ [Fluid Image Pop Up](https://mridul2820.github.io/CSS-Vanila-JS-Projects/Vanila-JS/fluid-image-pop-up/index.html)
+◾ [Fluid Image Pop Up](https://mridul2820.github.io/CSS-Vanila-JS-Projects/Vanila-JS/fluid-image-popup/index.html)
 <br/>
 ◾ [Form Validator](https://mridul2820.github.io/CSS-Vanila-JS-Projects/Vanila-JS/form-validator/index.html)
 <br/>
