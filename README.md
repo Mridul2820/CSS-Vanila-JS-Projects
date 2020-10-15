@@ -34,11 +34,11 @@ Some Projects On Vanila.JS and CSS based
 <br/>
 ◾ [Muuri Grid](https://mridul2820.github.io/CSS-Vanila-JS-Projects/Vanila-JS/muuri-grid/index.html)
 <br/>
-◾ [Newyear Countdown](https://mridul2820.github.io/CSS-Vanila-JS-Projects/Vanila-JS/newyear-countdown/index.html)
+◾ [Newyear Countdown](https://mridul2820.github.io/CSS-Vanila-JS-Projects/Vanila-JS/new-year-countdown/index.html)
 <br/>
 ◾ [Person List](https://mridul2820.github.io/CSS-Vanila-JS-Projects/Vanila-JS/person-list/index.html)
 <br/>
-◾ [Person Money List](https://mridul2820.github.io/CSS-Vanila-JS-Projects/Vanila-JS/person-money-list/index.html)
+◾ [Person Money List](https://mridul2820.github.io/CSS-Vanila-JS-Projects/Vanila-JS/person-money-list-DOM-array-methods/index.html)
 <br/>
 ◾ [Responsive Website With Animation scroll](https://mridul2820.github.io/CSS-Vanila-JS-Projects/Vanila-JS/responsive-website-with-scroll-animtion/index.html)
 <br/>
