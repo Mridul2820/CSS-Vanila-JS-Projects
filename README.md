@@ -6,7 +6,8 @@ Some Projects On Vanila.JS and CSS based
 
 ### Individual Project Links
 
-
+◾ [Animated JS Counter](https://mridul2820.github.io/CSS-Vanila-JS-Projects/Vanila-JS/animated-js-counter/index.html)
+<br/>
 ◾ [CSS Theme Switcher](https://mridul2820.github.io/CSS-Vanila-JS-Projects/Vanila-JS/css-theme-switcher/index.html)
 <br/>
 ◾ [Custom Video Player](https://mridul2820.github.io/CSS-Vanila-JS-Projects/Vanila-JS/custom-video-player/index.html)
