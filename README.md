@@ -49,4 +49,6 @@ Some Projects On Vanila.JS and CSS based
 ◾ [Social Media Accordion](https://mridul2820.github.io/CSS-Vanila-JS-Projects/Vanila-JS/social-media-accordion/index.html)
 <br/>
 ◾ [Working Calander](https://mridul2820.github.io/CSS-Vanila-JS-Projects/Vanila-JS/working-calander/index.html)
+<br/>
+◾ [Zipcode App](https://mridul2820.github.io/CSS-Vanila-JS-Projects/Vanila-JS/zipcode-app/index.html)
 

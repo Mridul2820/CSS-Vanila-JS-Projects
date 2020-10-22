@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Zipcode App</title>
+
+    <link rel="shortcut icon" type="image/png" href="../../assets/favicon.png">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.9.1/css/bulma.min.css" />
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" />
+
+    <style>
+        .icon-remove ,
+        .icon-check {
+            display: none;
+        }
+
+        .fa-check {
+            color: green;
+        }
+
+        .fa-times {
+            color: red;
+        }
+        
+    </style>
+</head>
+<body>
+    <section class="hero hero-body is-dark container">
+        <h1 class="title">India Loaction info</h1>
+        <h2 class="subtitle">
+            Enter a zipcode to get the location info
+        </h2>
+
+        <form id="zip-form">
+            <div class="field">
+                <div class="control has-icons-left has-icons-right">
+                    <input class="input is-large zip" type="text" placeholder="Enter Zip Code">
+                    <span class="icon is-small is-left">
+                        <i class="fas fa-map-pin"></i>
+                    </span>
+                    <span class="icon is-small is-right icon-check">
+                        <i class="fas fa-check"></i>
+                    </span>
+                    <span class="icon is-small is-right icon-remove">
+                        <i class="fas fa-times"></i>
+                    </span>
+                </div>
+            </div>
+        </form>
+    </section>
+
+    <br>
+    <div class="container">
+        <div id="output"></div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
