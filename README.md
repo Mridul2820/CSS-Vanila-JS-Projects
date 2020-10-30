@@ -46,6 +46,8 @@ Some Projects On Vanila.JS and CSS based
 
 ◾ [Responsive Website With Animation scroll](https://mridul2820.github.io/CSS-Vanila-JS-Projects/Vanila-JS/responsive-website-with-scroll-animtion/index.html)
 <br/>
+◾ [Sliding Form](https://mridul2820.github.io/CSS-Vanila-JS-Projects/Vanila-JS/sliding-form/index.html)
+<br/>
 ◾ [Social Media Accordion](https://mridul2820.github.io/CSS-Vanila-JS-Projects/Vanila-JS/social-media-accordion/index.html)
 <br/>
 ◾ [Working Calander](https://mridul2820.github.io/CSS-Vanila-JS-Projects/Vanila-JS/working-calander/index.html)
