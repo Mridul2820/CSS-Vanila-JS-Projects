@@ -6,6 +6,8 @@ Some Projects On Vanila.JS and CSS based
 
 ### Individual Project Links
 
+◾ [Accordion](https://mridul2820.github.io/CSS-Vanila-JS-Projects/Vanila-JS/accordion/index.html)
+<br/>
 ◾ [Animated JS Counter](https://mridul2820.github.io/CSS-Vanila-JS-Projects/Vanila-JS/animated-js-counter/index.html)
 <br/>
 ◾ [CSS Theme Switcher](https://mridul2820.github.io/CSS-Vanila-JS-Projects/Vanila-JS/css-theme-switcher/index.html)
