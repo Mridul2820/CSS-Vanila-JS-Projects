@@ -30,8 +30,6 @@ Some Projects On Vanila.JS and CSS based
 
 ◾ [Meal Finder](https://mridul2820.github.io/CSS-Vanila-JS-Projects/Vanila-JS/meal-finder/index.html)
 <br/>
-◾ [Mega Menu](https://mridul2820.github.io/CSS-Vanila-JS-Projects/Vanila-JS/mega-menu/index.html)
-<br/>
 ◾ [Menu Slider And Modal](https://mridul2820.github.io/CSS-Vanila-JS-Projects/Vanila-JS/menu-slider-and-modal/index.html)
 <br/>
 ◾ [Movie Seat Booking](https://mridul2820.github.io/CSS-Vanila-JS-Projects/Vanila-JS/movie-seat-booking/index.html)
