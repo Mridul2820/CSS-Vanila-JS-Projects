@@ -235,7 +235,21 @@ ul.songs li {
   -webkit-box-pack: justify;
       -ms-flex-pack: justify;
           justify-content: space-between;
-  margin: 10px 0;
+  margin: 5px 0;
+  border-bottom: 1px solid #000;
+}
+
+ul.songs li .cover-img {
+  width: 50px;
+}
+
+ul.songs li .cover-img img {
+  width: 100%;
+}
+
+ul.songs li .song-title {
+  text-align: center;
+  width: 65%;
 }
 
 .container {

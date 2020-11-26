@@ -202,8 +202,25 @@ ul.songs {
         display: flex;
         align-items: center;
         justify-content: space-between;
-        margin: 10px 0;
+        margin: 5px 0;
+
+        border-bottom: 1px solid #000;
+
+        .cover-img {
+            width: 50px;
+
+            img {
+                width: 100%;
+            }
+        }
+
+        .song-title {
+            text-align: center;
+            width: 65%;
+        }
     }
+
+
 }
 
 .container {

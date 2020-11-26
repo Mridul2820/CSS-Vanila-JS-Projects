@@ -23,10 +23,17 @@ function showData(data) {
         <ul class="songs">
             ${data.data.map(song => `
             <li>
+                <div class="cover-img">
+                    <img src="${song.album.cover}" alt="cover">
+                </div>
 
-                <span><strong>${song.artist.name}</strong> - ${song.title}</span>
+                <div class="song-title">
+                    <span><strong>${song.artist.name}</strong> - ${song.title}</span>
+                </div>
+
 
                 <button class="btn" data-artist="${song.artist.name}" data-songtitle="${song.title}">Get Lyrics</button>
+
             </li>
         ` )
         .join('')}
