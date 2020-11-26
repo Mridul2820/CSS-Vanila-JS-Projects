@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lyrics Search App</title>
+
+    <link rel="stylesheet" href="style.css">
+    <link rel="shortcut icon" type="image/png" href="../../assets/favicon.png">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.1/css/all.min.css"/>
+
+</head>
+<body>
+    <header>
+
+        <ul class="slideshow">
+            <li style="--i:1"></li>
+            <li style="--i:2"></li>
+            <li style="--i:3"></li>
+            <li style="--i:4"></li>
+            <li style="--i:5"></li>
+            <li style="--i:6"></li>
+            <li style="--i:7"></li>
+            <li style="--i:8"></li>
+        </ul>
+
+        <h1>Lyrics Search</h1>
+
+        <form id="form">
+            <input type="text" id="search" placeholder="Enter Artist or Song Name">
+            <button>Search</button>
+        </form>
+    </header>
+
+    <div id="result" class="container">
+        <p>Result will be displayed here</p>
+    </div>
+
+    <div id="more" class="container centered"></div>
+
+    <script src="script.js"></script>
+</body>
+</html>

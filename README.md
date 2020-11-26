@@ -27,6 +27,8 @@ Some Projects On Vanila.JS and CSS based
 <br/>
 ◾ [JavaScript Type Writer Effect](https://mridul2820.github.io/CSS-Vanila-JS-Projects/Vanila-JS/js-type-writer-effect/index.html)
 <br/>
+◾ [Lyrics Search App](https://mridul2820.github.io/CSS-Vanila-JS-Projects/Vanila-JS/lyrics-search-app/index.html)
+<br/>
 
 ◾ [Meal Finder](https://mridul2820.github.io/CSS-Vanila-JS-Projects/Vanila-JS/meal-finder/index.html)
 <br/>
