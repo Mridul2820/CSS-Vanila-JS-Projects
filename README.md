@@ -25,6 +25,8 @@ Some Projects On Vanila.JS and CSS based
 <br/>
 ◾ [Form Validator](https://mridul2820.github.io/CSS-Vanila-JS-Projects/Vanila-JS/form-validator/index.html)
 <br/>
+◾ [Frosted Glass Credit Card Form](https://mridul2820.github.io/CSS-Vanila-JS-Projects/Vanila-JS/frosted-glass-credit-card-form/index.html)
+<br/>
 ◾ [JavaScript Type Writer Effect](https://mridul2820.github.io/CSS-Vanila-JS-Projects/Vanila-JS/js-type-writer-effect/index.html)
 <br/>
 ◾ [Lyrics Search App](https://mridul2820.github.io/CSS-Vanila-JS-Projects/Vanila-JS/lyrics-search-app/index.html)
