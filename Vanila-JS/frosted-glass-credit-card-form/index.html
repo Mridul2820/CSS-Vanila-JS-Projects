@@ -6,8 +6,38 @@
     <title>Frosted Glass Credit Card Form</title>
     <link rel="stylesheet" href="styles.css">
     <link rel="shortcut icon" type="image/png" href="../../assets/favicon.png">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.1/css/all.min.css"/>
+
 </head>
 <body>
-    
+    <div class="card">
+        <form>
+            <h1 class="card_title">Enter Payment Info</h1>
+            <div class="card_row">
+                <div class="card_col">
+                    <label for="cardNumber" class="card_label">Card Number</label>
+                    <input type="text" class="card_input card_input--large" placeholder="xxxx-xxxx-xxxx-xxxx" id="cardNumber">
+                </div>
+                <div class="card_col card_chip">
+                    <img src="assets/chip.svg" alt="chip">
+                </div>
+            </div>
+        </form>
+        <div class="card_row">
+            <div class="card_col">
+                <label for="CardExpiry" class="card_label">
+                    Expiry Date
+                </label>
+                <input type="text" class="card_input" id="cardExpiry" placeholder="xx/xx">
+            </div>
+            <div class="card_col">
+                <label for="cardCCV" class="card_label">
+                    CCV
+                </label>
+                <input type="text" class="card_input" id="cardCCV" placeholder="xxx">
+            </div>
+            <div class="card_col card_brand"><i id="cardBrand"></i></div>
+        </div>
+    </div>
 </body>
 </html>
