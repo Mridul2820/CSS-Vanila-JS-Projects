@@ -45,8 +45,6 @@ Some Projects On Vanila.JS and CSS based
 <br/>
 ◾ [Newyear Countdown](https://mridul2820.github.io/CSS-Vanila-JS-Projects/Vanila-JS/new-year-countdown/index.html)
 <br/>
-◾ [Person List](https://mridul2820.github.io/CSS-Vanila-JS-Projects/Vanila-JS/person-list/index.html)
-<br/>
 ◾ [Person Money List](https://mridul2820.github.io/CSS-Vanila-JS-Projects/Vanila-JS/person-money-list-DOM-array-methods/index.html)
 <br/>
 
