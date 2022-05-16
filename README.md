@@ -1,6 +1,6 @@
 # CSS & Vanila JS
 
-Projects On Vanila.JS and CSS
+Projects with HTML, CSS and  Vanila.JS.
 
 ### Link of the Project [Menu](https://mridul2820.github.io/CSS-Vanila-JS-Projects/)
 
