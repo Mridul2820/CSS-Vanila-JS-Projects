@@ -1,42 +1,25 @@
-# CSS & Vanila JS
+# HTML CSS & JS
 
-Projects with HTML, CSS and  Vanila.JS.
+Projects with HTML CSS and JavaScript
 
-### Link of the Project [Menu](https://mridul2820.github.io/CSS-Vanila-JS-Projects/)
+### Link of the Project [Menu](https://mridul2820.github.io/html-css-js-projects/)
 
 ### Individual Project Links
 
 | Name | Code | Demo |
 | ----- | ----- | ----- |
-| Accordion | [Code](https://github.com/Mridul2820/CSS-Vanila-JS-Projects/tree/master/Vanila-JS/accordion) | [Demo](https://mridul2820.github.io/CSS-Vanila-JS-Projects/Vanila-JS/accordion/index.html) |
-| Animated JS Counter | [Code](https://github.com/Mridul2820/CSS-Vanila-JS-Projects/tree/master/Vanila-JS/animated-js-counter) | [Demo](https://mridul2820.github.io/CSS-Vanila-JS-Projects/Vanila-JS/animated-js-counter/index.html)|
-| CSS Theme Switcher | [Code](https://github.com/Mridul2820/CSS-Vanila-JS-Projects/tree/master/Vanila-JS/css-theme-switcher) | [Demo](https://mridul2820.github.io/CSS-Vanila-JS-Projects/Vanila-JS/css-theme-switcher/index.html) |
-| Custom Video Player | [Code](https://github.com/Mridul2820/CSS-Vanila-JS-Projects/tree/master/Vanila-JS/custom-video-player) |  [Demo](https://mridul2820.github.io/CSS-Vanila-JS-Projects/Vanila-JS/custom-video-player/index.html)
-| Dynamic Landing Page With Time | [Code](https://github.com/Mridul2820/CSS-Vanila-JS-Projects/tree/master/Vanila-JS/dynamic-landing-page-with-time) | [Demo](https://mridul2820.github.io/CSS-Vanila-JS-Projects/Vanila-JS/dynamic-landing-page-with-time/index.html)
-| Exchange Rate Calculator | [Code](https://github.com/Mridul2820/CSS-Vanila-JS-Projects/tree/master/Vanila-JS/exchange-rate-calculator) | [Demo](https://mridul2820.github.io/CSS-Vanila-JS-Projects/Vanila-JS/exchange-rate-calculator/index.html)
-| Fireworks | [Code](https://github.com/Mridul2820/CSS-Vanila-JS-Projects/tree/master/Vanila-JS/fireworks) | [Demo](https://mridul2820.github.io/CSS-Vanila-JS-Projects/Vanila-JS/fireworks/fire.html) |
-| Fluid Image Pop Up | [Code](https://github.com/Mridul2820/CSS-Vanila-JS-Projects/tree/master/Vanila-JS/fluid-image-popup) | [Demo](https://mridul2820.github.io/CSS-Vanila-JS-Projects/Vanila-JS/fluid-image-popup/index.html) |
-| Form Validator | [Code](https://github.com/Mridul2820/CSS-Vanila-JS-Projects/tree/master/Vanila-JS/form-validator) | [Demo](https://mridul2820.github.io/CSS-Vanila-JS-Projects/Vanila-JS/form-validator/index.html) |
-| Frosted Glass Credit Card Form | [Code](https://github.com/Mridul2820/CSS-Vanila-JS-Projects/tree/master/Vanila-JS/frosted-glass-credit-card-form) | [Demo](https://mridul2820.github.io/CSS-Vanila-JS-Projects/Vanila-JS/frosted-glass-credit-card-form/index.html) |
-|  JavaScript Type Writer Effect | [Code](https://github.com/Mridul2820/CSS-Vanila-JS-Projects/tree/master/Vanila-JS/js-type-writer-effect) | [Demo](https://mridul2820.github.io/CSS-Vanila-JS-Projects/Vanila-JS/js-type-writer-effect/index.html) |
-|  Lyrics Search App | [Code](https://github.com/Mridul2820/CSS-Vanila-JS-Projects/tree/master/Vanila-JS/lyrics-search-app) | [Demo](https://mridul2820.github.io/CSS-Vanila-JS-Projects/Vanila-JS/lyrics-search-app/index.html) |
-| Meal Finder | [Code](https://github.com/Mridul2820/CSS-Vanila-JS-Projects/tree/master/Vanila-JS/meal-finder) | [Demo](https://mridul2820.github.io/CSS-Vanila-JS-Projects/Vanila-JS/meal-finder/index.html) |
-| Menu Slider And Modal | [Code](https://github.com/Mridul2820/CSS-Vanila-JS-Projects/tree/master/Vanila-JS/menu-slider-and-modal) | [Demo](https://mridul2820.github.io/CSS-Vanila-JS-Projects/Vanila-JS/menu-slider-and-modal/index.html) |
-| Movie Seat Booking | [Code](https://github.com/Mridul2820/CSS-Vanila-JS-Projects/tree/master/Vanila-JS/movie-seat-booking) | [Demo](https://mridul2820.github.io/CSS-Vanila-JS-Projects/Vanila-JS/movie-seat-booking/index.html) |
-| Music Player | [Code](https://github.com/Mridul2820/CSS-Vanila-JS-Projects/tree/master/Vanila-JS/music-player) | [Demo](https://mridul2820.github.io/CSS-Vanila-JS-Projects/Vanila-JS/music-player/index.html) |
-| Muuri Grid | [Code](https://github.com/Mridul2820/CSS-Vanila-JS-Projects/tree/master/Vanila-JS/muuri-grid) | [Demo](https://mridul2820.github.io/CSS-Vanila-JS-Projects/Vanila-JS/muuri-grid/index.html) |
-| New Year Countdown | [Code](https://github.com/Mridul2820/CSS-Vanila-JS-Projects/tree/master/Vanila-JS/new-year-countdown) | [Demo](https://mridul2820.github.io/CSS-Vanila-JS-Projects/Vanila-JS/new-year-countdown/index.html) |
-| Person Money List | [Code](https://github.com/Mridul2820/CSS-Vanila-JS-Projects/tree/master/Vanila-JS/person-money-list-DOM-array-methods) | [Demo](https://mridul2820.github.io/CSS-Vanila-JS-Projects/Vanila-JS/person-money-list-DOM-array-methods/index.html) |
-| Responsive Website With Animation scroll | [Code](https://github.com/Mridul2820/CSS-Vanila-JS-Projects/tree/master/Vanila-JS/responsive-website-with-scroll-animtion) | [Demo](https://mridul2820.github.io/CSS-Vanila-JS-Projects/Vanila-JS/responsive-website-with-scroll-animtion/index.html) |
-| Sliding Form | [Code](https://github.com/Mridul2820/CSS-Vanila-JS-Projects/tree/master/Vanila-JS/sliding-form) | [Demo](https://mridul2820.github.io/CSS-Vanila-JS-Projects/Vanila-JS/sliding-form/index.html) |
-| Social Media Accordion | [Code](https://github.com/Mridul2820/CSS-Vanila-JS-Projects/tree/master/Vanila-JS/social-media-accordion) | [Demo](https://mridul2820.github.io/CSS-Vanila-JS-Projects/Vanila-JS/social-media-accordion/index.html) |
-| Thanos Snap Effect | [Code](https://github.com/Mridul2820/CSS-Vanila-JS-Projects/tree/master/Vanila-JS/thanos-snap-effect) | [Demo](https://mridul2820.github.io/CSS-Vanila-JS-Projects/Vanila-JS/thanos-snap-effect/index.html) |
-| Working Calander | [Code](https://github.com/Mridul2820/CSS-Vanila-JS-Projects/tree/master/Vanila-JS/working-calander) | [Demo](https://mridul2820.github.io/CSS-Vanila-JS-Projects/Vanila-JS/working-calander/index.html) |
-| Zipcode App | [Code](https://github.com/Mridul2820/CSS-Vanila-JS-Projects/tree/master/Vanila-JS/zipcode-app) | [Demo](https://mridul2820.github.io/CSS-Vanila-JS-Projects/Vanila-JS/zipcode-app/index.html) |
-
-
-
-
-
-
-
+| Auto Text Effect | [Code](https://github.com/Mridul2820/html-css-js-projects/tree/master/projects/auto-text-effect) | [Demo](https://mridul2820.github.io/html-css-js-projects/projects/auto-text-effect/index.html) |
+| Background Slider | [Code](https://github.com/Mridul2820/html-css-js-projects/tree/master/projects/background-slider) | [Demo](https://mridul2820.github.io/html-css-js-projects/projects/background-slider/index.html) |
+| Drag N Drop | [Code](https://github.com/Mridul2820/html-css-js-projects/tree/master/projects/drag-n-drop) | [Demo](https://mridul2820.github.io/html-css-js-projects/projects/drag-n-drop/index.html) |
+| Expanding Cards | [Code](https://github.com/Mridul2820/html-css-js-projects/tree/master/projects/expanding-cards) | [Demo](https://mridul2820.github.io/html-css-js-projects/projects/expanding-cards/index.html) |
+| FAQ Collapse | [Code](https://github.com/Mridul2820/html-css-js-projects/tree/master/projects/faq-collapse) | [Demo](https://mridul2820.github.io/html-css-js-projects/projects/faq-collapse/index.html) |
+| Hidden Search Widget | [Code](https://github.com/Mridul2820/html-css-js-projects/tree/master/projects/hidden-search-widget) | [Demo](https://mridul2820.github.io/html-css-js-projects/projects/hidden-search-widget/index.html) |
+| Movie List App | [Code](https://github.com/Mridul2820/html-css-js-projects/tree/master/projects/movie-list-app) | [Demo](https://mridul2820.github.io/html-css-js-projects/projects/movie-list-app/index.html) |
+| Password Strength Background | [Code](https://github.com/Mridul2820/html-css-js-projects/tree/master/projects/password-strength-background) | [Demo](https://mridul2820.github.io/html-css-js-projects/projects/password-strength-background/index.html) |
+| Pokedex | [Code](https://github.com/Mridul2820/html-css-js-projects/tree/master/projects/pokedex) | [Demo](https://mridul2820.github.io/html-css-js-projects/projects/pokedex/index.html) |
+| Progress Steps | [Code](https://github.com/Mridul2820/html-css-js-projects/tree/master/projects/progress-steps) | [Demo](https://mridul2820.github.io/html-css-js-projects/projects/progress-steps/index.html) |
+| Random Image Feed | [Code](https://github.com/Mridul2820/html-css-js-projects/tree/master/projects/random-image-feed) | [Demo](https://mridul2820.github.io/html-css-js-projects/projects/random-image-feed/index.html) |
+| Rotating Navigation | [Code](https://github.com/Mridul2820/html-css-js-projects/tree/master/projects/rotating-navigation) | [Demo](https://mridul2820.github.io/html-css-js-projects/projects/rotating-navigation/index.html) |
+| Scroll Animation | [Code](https://github.com/Mridul2820/html-css-js-projects/tree/master/projects/scroll-animation) | [Demo](https://mridul2820.github.io/html-css-js-projects/projects/scroll-animation/index.html) |
+| Toast Notification | [Code](https://github.com/Mridul2820/html-css-js-projects/tree/master/projects/toast-notification) | [Demo](https://mridul2820.github.io/html-css-js-projects/projects/toast-notification/index.html) |
+| Verify Account UI | [Code](https://github.com/Mridul2820/html-css-js-projects/tree/master/projects/verify-account-UI) | [Demo](https://mridul2820.github.io/html-css-js-projects/projects/verify-account-UI/index.html) |
